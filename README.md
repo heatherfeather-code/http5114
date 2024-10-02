@@ -1,6 +1,8 @@
 # http5114
 Course Work for http5114: (workshops in Web Development)
 
+This course specifically focuses on the uses of GIT and GitHub uses as a developer. 
+
 
 ## Starting a new project
 1. make a new repo on github.com
